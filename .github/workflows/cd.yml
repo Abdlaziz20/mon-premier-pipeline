@@ -2,7 +2,7 @@
 name: CD - GitHub Pages
 on:
 push:
-branches:
+branches:  
 - main
 jobs:
 deploy:
